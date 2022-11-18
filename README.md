@@ -1,1 +1,1 @@
-# Sololearn Javascript Challenges Solutions
+# Sololearn Javascript and SQL Solutions
