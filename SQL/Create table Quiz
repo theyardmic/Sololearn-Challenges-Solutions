@@ -1,0 +1,13 @@
+CREATE TABLE leaderboard(
+    Place int,
+    Nickname varchar(128),
+    Rating INT
+);
+
+INSERT INTO leaderboard( Place, Nickname, Rating )
+ VALUES
+( 1, 'Predator', 9500 ),
+( 2, 'JohnWar', 9300 ),
+( 3, 'NightWarrior', 8900 );
+
+SELECT* FROM leaderboard;
